@@ -11,9 +11,6 @@ I also have practical experience working with databases like PostgreSQL and MySQ
 
 Please feel free to reach out with any questions or inquiries. You can contact me at darriiadrozd@gmail.com. I'm happy to help and provide answers to any of your questions!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 ---
 ### 🤝Social Networks:
 
